@@ -6,6 +6,8 @@ lista de materiais
 - resistores de 1k ohm (2x)
 - display de 7 segmentos (1 digito)
 - Botão de pressão (4 pinos)
+
+
 nossa simulação:
 https://wokwi.com/projects/396162025498488833
 
