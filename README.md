@@ -1,7 +1,8 @@
 Neste projeto, mostramos que nos arrumamos para usar um display de 7 segmentos.
 Nos recomemdamos que você utilize uma bibloteca adequada, mais caso queira usar nosso codigo ele
 estara a sua disposição
-lista de materiais
+
+lista de materiais:
 - Arduino/genuino uno ou nano
 - resistores de 1k ohm (2x)
 - display de 7 segmentos (1 digito)
