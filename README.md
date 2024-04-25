@@ -1,5 +1,5 @@
-Neste projeto, mostramos que nos arrumamos para usar um display de 7 segmentos
-nos recomemdamos que você utilize uma bibloteca adequada, mais caso queira usar nosso codigo ele
+Neste projeto, mostramos que nos arrumamos para usar um display de 7 segmentos.
+Nos recomemdamos que você utilize uma bibloteca adequada, mais caso queira usar nosso codigo ele
 estara a sua disposição
 lista de materiais
 - Arduino/genuino uno ou nano
