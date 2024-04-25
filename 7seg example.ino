@@ -1,4 +1,4 @@
-/* codigo pertencente a golfins studios
+// codigo pertencente a golfins studios
 autor: jabutirsom64
 objetivo: imprimir números em um display de 7 segmentos
 linguagem: arduino c/c++
