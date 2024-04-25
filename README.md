@@ -15,4 +15,4 @@ screenshot (simulação):
 
 
 
-![Screenshot_20240425-190416_Samsung Internet](https://github.com/Golfinsstd/display-de-7-segmentos-/assets/165297153/19a85916-980b-401e-9697-80af0ce036a9)
+![Screenshot_20240425-193244_Samsung Internet](https://github.com/Golfinsstd/display-de-7-segmentos-/assets/165297153/f4d100ff-fcef-425a-984e-4178d880d7ba)
