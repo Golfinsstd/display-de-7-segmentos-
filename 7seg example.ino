@@ -1,3 +1,10 @@
+/*codigo pertencente a golfins studios
+autor: jabutirsom64
+objetivo: imprimir números em um display de 7 segmentos
+linguagem: arduino c/c++
+*/
+
+
 #define a 2
 #define b 3
 #define c 4
